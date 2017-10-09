@@ -1,0 +1,34 @@
+h1{
+  text-align: center;
+  font-weight: bold;
+}
+body{
+  background-color: darkgreen;
+}
+button{
+  margin-bottom: 20px;
+}
+#cont{
+  max-width: 480px;
+  box-sizing: border-box;
+  margin: auto;
+  z-index: 5;
+}
+.boxes{
+  box-sizing: border-box;
+  width: 30px;
+  height: 30px;
+  /*border: 1px inset lightgray;*/
+  float:left;
+  z-index: 10;
+  background-color: white;
+}
+.center{
+  max-width: 480px;
+  margin: auto;
+  text-align: center;
+}
+
+/*#cont div:hover{
+  background-color: black;
+}
