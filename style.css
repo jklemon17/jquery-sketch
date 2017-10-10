@@ -6,7 +6,7 @@ body{
   background-color: darkgreen;
 }
 button{
-  margin-bottom: 20px;
+  margin: 0 10px 20px 0;
 }
 #cont{
   max-width: 480px;
